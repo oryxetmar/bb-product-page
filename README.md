@@ -13,6 +13,7 @@
 ### Flare:
 - my navbar is transparent
 - my home links back to my about page assignment 1
+- my Vancouver under Local Stores tab links to my error page just for fun!!
 - i have used columms for para 1 and para 2 (first column words and 2nd an image) (lines 200, 214)
 - i have css classes interacting with site elements : dropdown menu (line 33), hover (line 77, 186), zoom in transition on the home button (line 79)
 
@@ -25,3 +26,7 @@
 - https://www.pexels.com/photo/coffee-beans-in-close-up-photography-4109744/
 
 - i also searched through code pen for multiple examples of code for hovering, transparent, dropdown menus etc. i did not copy direct code because i obvi it needs to be my style and my own on my site. i wanted to see how they were used and the patterns for ur, li, nav, sections, form, etc.
+
+## Oops 
+
+- I did not link my  main product page to get back from the seperate pages anywhere agghh
